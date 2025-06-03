@@ -1,0 +1,27 @@
+Circuit: * F:\Tincho\Facultad\6 - Proyecto Final\repo\Modulo de conexion\Hardware\Simulaciones\Circuito de alarma\Circuito anti vandalismo en entrada de alarma.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v5.  Increasing period to 0.010002
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v6.  Increasing period to 0.010002
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v7.  Increasing period to 0.002002
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v8.  Increasing period to 0.002002
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v9.  Increasing period to 0.002002
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Jun  2 19:38:53 2025
+Total elapsed time: 0.063 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3494
+traniter = 3476
+tranpoints = 1581
+accept = 1452
+rejected = 129
+matrix size = 24
+fillins = 4
+solver = Normal
+Avg thread counts: 3.5/6.6/6.6/3.5
+Matrix Compiler1: 762 bytes object code size  0.3/0.1/[0.1]
+Matrix Compiler2: 1.35 KB object code size  0.2/0.2/[0.2]
+
