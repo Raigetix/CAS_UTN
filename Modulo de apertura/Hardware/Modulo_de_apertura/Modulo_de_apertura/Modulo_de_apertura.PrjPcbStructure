@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=MdA_CPU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MdA_CPU.SchDoc|FileName=MdA_Perifericos.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MdA_CPU.SchDoc|FileName=MdA_Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MdA_CPU.SchDoc|FileName=MdA_RS485.SchDoc|SheetNumber=2

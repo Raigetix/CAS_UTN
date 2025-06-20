@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 0:28:26 On 19/06/2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Modulo de apertura.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 0:28:27 On 19/06/2025
