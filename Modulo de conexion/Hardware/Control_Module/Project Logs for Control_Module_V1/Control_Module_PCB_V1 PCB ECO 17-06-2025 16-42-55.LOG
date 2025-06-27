@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=GND Pin=CN1-3
+Removed Member From Class: ClassName=Fuente de Alimentación Member=CN1
+Change Footprint: Cannot match pads with new footprint in component :J7 Footprint:615032137921
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J7-SH5
+Add Pin To Net: Unknown Pin: Pin U4-39_10
+Add Pin To Net: Unknown Pin: Pin U4-39_11
+Add Pin To Net: Unknown Pin: Pin U4-39_12
+Add Pin To Net: Unknown Pin: Pin U4-39_13
+Add Pin To Net: Unknown Pin: Pin U4-39_14
+Add Pin To Net: Unknown Pin: Pin U4-39_15
+Add Pin To Net: Unknown Pin: Pin U4-39_16
+Add Pin To Net: Unknown Pin: Pin U4-39_17
+Add Pin To Net: Unknown Pin: Pin U4-39_18
+Add Pin To Net: Unknown Pin: Pin U4-39_19
+Add Pin To Net: Unknown Pin: Pin U4-39_20
+Add Pin To Net: Unknown Pin: Pin U4-39_21
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Fuente de Alimentación Member=Component D1 SS14
+Add Class Member: Failed to add class member : Component J1 CN_PowerJack

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=J4-A1/B12
+Removed Pin From Net: NetName=NetFB3_2 Pin=J4-A4/B9
+Removed Pin From Net: NetName=GND Pin=J4-B1/A12
+Removed Pin From Net: NetName=NetFB3_2 Pin=J4-B4/AP
+Change Component Footprint: Designator=J3 Old Footprint=CUI_CRJ061-L1-TH New Footprint=TE_6116173-4
+Change Component Footprint: Designator=J4 Old Footprint=TE_2340901-1 New Footprint=GCT_USB4105GFA120
+Change Component Comment : Designator=J4 Old Comment=USB_C New Comment=USB4105GFA120
+Change component parameters: Designator = "J3" ("J3"); Footprint = "CUI_CRJ061-L1-TH"; UniqueID = "\OELNDZEI\TPCVDGGH" ("\OELNDZEI\TPCVDGGH")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRJ061-L1-TH/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C3000171"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "HC-RJ45-5JA-1-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRJ061-L1-TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRJ061-L1-TH/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "TE_2340901-1"; UniqueID = "\OBNJPBYN\CVEWCXDD" ("\OBNJPBYN\CVEWCXDD")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB4105GFA120/Global+Connector+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C5184243"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "USB4105GFA120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4105GFA120/Global+Connector+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J3-Shell
+Added Pin To Net: NetName=GND Pin=J4-A1_B12
+Added Pin To Net: NetName=NetFB3_2 Pin=J4-A4_B9
+Added Pin To Net: NetName=GND Pin=J4-B1_A12
+Added Pin To Net: NetName=NetFB3_2 Pin=J4-B4_A9
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J5-4
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J5-6
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J7-SH5
+Add Pin To Net: Unknown Pin: Pin U4-39_10
+Add Pin To Net: Unknown Pin: Pin U4-39_11
+Add Pin To Net: Unknown Pin: Pin U4-39_12
+Add Pin To Net: Unknown Pin: Pin U4-39_13
+Add Pin To Net: Unknown Pin: Pin U4-39_14
+Add Pin To Net: Unknown Pin: Pin U4-39_15
+Add Pin To Net: Unknown Pin: Pin U4-39_16
+Add Pin To Net: Unknown Pin: Pin U4-39_17
+Add Pin To Net: Unknown Pin: Pin U4-39_18
+Add Pin To Net: Unknown Pin: Pin U4-39_19
+Add Pin To Net: Unknown Pin: Pin U4-39_20
+Add Pin To Net: Unknown Pin: Pin U4-39_21
+Added Member To Class: ClassName=Procesador Principal Member=Component J4 USB4105GFA120

@@ -1,0 +1,225 @@
+Removed Pin From Net: NetName=V_Alarm Pin=D3-1
+Removed Pin From Net: NetName=VDD Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=V_Alarm Pin=D4-2
+Removed Pin From Net: NetName=NetBT1_P Pin=U13-6
+Removed Member From Class: ClassName=Entradas y Salidas Member=D3
+Change Component Footprint: Designator=D1 Old Footprint=SOD_123 New Footprint=D_SMA
+Change Component Footprint: Designator=D2 Old Footprint=SOD_123 New Footprint=D_SMA
+Change Component Footprint: Designator=D3 Old Footprint=SOD_123 New Footprint=D_SMA
+Change Component Footprint: Designator=D4 Old Footprint=SOD_123 New Footprint=D_SMA
+Change Component Comment : Designator=D1 Old Comment=1N5819 New Comment=SS14
+Change Component Comment : Designator=D2 Old Comment=1N5819 New Comment=SS14
+Change Component Comment : Designator=D3 Old Comment=1N5819 New Comment=SS14
+Change Component Comment : Designator=D4 Old Comment=1N5819 New Comment=SS14
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOD_123"; UniqueID = "\OELNDZEI\VMCIHFFM" ("\OELNDZEI\VMCIHFFM")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C2480"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "SS14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SOD_123"; UniqueID = "\OBNJPBYN\EFHUJCKW" ("\OBNJPBYN\EFHUJCKW")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C2480"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "SS14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "SOD_123"; UniqueID = "\HYFZRHCI\LBQYVVGJ" ("\HYFZRHCI\LBQYVVGJ")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C2480"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "SS14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "SOD_123"; UniqueID = "\WKRZIBKB\UWBEGVWH" ("\WKRZIBKB\UWBEGVWH")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C2480"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "SS14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB1" ("FB1"); Footprint = "CHOKE0603"; UniqueID = "\OELNDZEI\DOGUUGGX" ("\OELNDZEI\DOGUUGGX")
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "GZ1608D601TF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB2" ("FB2"); Footprint = "CHOKE0603"; UniqueID = "\OELNDZEI\BDGWRYAX" ("\OELNDZEI\BDGWRYAX")
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "GZ1608D601TF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB3" ("FB3"); Footprint = "CHOKE0603"; UniqueID = "\OBNJPBYN\VWDEPJCH" ("\OBNJPBYN\VWDEPJCH")
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "GZ1608D601TF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB4" ("FB4"); Footprint = "CHOKE0603"; UniqueID = "\OBNJPBYN\EYFQAGGB" ("\OBNJPBYN\EYFQAGGB")
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "GZ1608D601TF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FB6" ("FB6"); Footprint = "CHOKE0603"; UniqueID = "\HYFZRHCI\TNEGQQJI" ("\HYFZRHCI\TNEGQQJI")
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "GZ1608D601TF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=D5(D_SMA)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C2480"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "SS14"; VariantName = "[No Variations]"
+Added Component: Designator=FB8(CHOKE0603)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "GZ1608D601TF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_P Pin=D3-1
+Added Pin To Net: NetName=V_Alarm Pin=D4-1
+Added Pin To Net: NetName=VDD Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=V_Alarm Pin=D5-2
+Added Pin To Net: NetName=VDD Pin=FB8-1
+Added Pin To Net: NetName=VDDA Pin=FB8-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J5-4
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J5-6
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J7-SH5
+Add Pin To Net: Unknown Pin: Pin U4-39_10
+Add Pin To Net: Unknown Pin: Pin U4-39_11
+Add Pin To Net: Unknown Pin: Pin U4-39_12
+Add Pin To Net: Unknown Pin: Pin U4-39_13
+Add Pin To Net: Unknown Pin: Pin U4-39_14
+Add Pin To Net: Unknown Pin: Pin U4-39_15
+Add Pin To Net: Unknown Pin: Pin U4-39_16
+Add Pin To Net: Unknown Pin: Pin U4-39_17
+Add Pin To Net: Unknown Pin: Pin U4-39_18
+Add Pin To Net: Unknown Pin: Pin U4-39_19
+Add Pin To Net: Unknown Pin: Pin U4-39_20
+Add Pin To Net: Unknown Pin: Pin U4-39_21
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=U13-6
+Added Net: Name=NetD3_2
+Added Member To Class: ClassName=Periféricos Member=Component D3 SS14
+Added Member To Class: ClassName=Entradas y Salidas Member=Component D5 SS14
+Added Member To Class: ClassName=Comunicación Ethernet Member=Component FB8 Choke

@@ -1,0 +1,39 @@
+Added Component: Designator=J3(TE_6116173-4)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRJ061-L1-TH/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C3000171"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "HC-RJ45-5JA-1-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRJ061-L1-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRJ061-L1-TH/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J2-6
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetFB1_1 Pin=J3-4
+Added Pin To Net: NetName=NetFB1_1 Pin=J3-5
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetFB2_1 Pin=J3-8
+Added Pin To Net: NetName=NetJ3_9 Pin=J3-9
+Added Pin To Net: NetName=NetJ3_12 Pin=J3-12
+Added Pin To Net: NetName=NetFB2_1 Pin=J3-Shell
+Added Pin To Net: NetName=NetFB2_1 Pin=J3-Shell
+Add Pin To Net: Unknown Pin: Pin J5-4
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J7-SH5
+Add Pin To Net: Unknown Pin: Pin U4-39_10
+Add Pin To Net: Unknown Pin: Pin U4-39_11
+Add Pin To Net: Unknown Pin: Pin U4-39_12
+Add Pin To Net: Unknown Pin: Pin U4-39_13
+Add Pin To Net: Unknown Pin: Pin U4-39_14
+Add Pin To Net: Unknown Pin: Pin U4-39_15
+Add Pin To Net: Unknown Pin: Pin U4-39_16
+Add Pin To Net: Unknown Pin: Pin U4-39_17
+Add Pin To Net: Unknown Pin: Pin U4-39_18
+Add Pin To Net: Unknown Pin: Pin U4-39_19
+Add Pin To Net: Unknown Pin: Pin U4-39_20
+Add Pin To Net: Unknown Pin: Pin U4-39_21
+Added Member To Class: ClassName=Comunicación Ethernet Member=Component J3 RJ45

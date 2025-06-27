@@ -1,0 +1,44 @@
+Change Component Description : Designator=U1 Old Description=LAN Transformer, 10/100 Base-Tx, OP -40C to +85C, CUT TAPE New Description=LAN Transformer, 10/100 Base-Tx, OP -40C to +85C, CUT TAPE | Bourns PT61018PEL
+Added Component: Designator=J2(2)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C65114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "2.54-2*3PPin"; VariantName = "[No Variations]"
+Added Component: Designator=J5(2)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C65114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "2.54-2*3PPin"; VariantName = "[No Variations]"
+Added Component: Designator=J6(2)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C65114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "2.54-2*3PPin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=J2-1
+Added Pin To Net: NetName=U0TX Pin=J2-2
+Added Pin To Net: NetName=U0RX Pin=J2-3
+Added Pin To Net: NetName=VDD Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=IO0 Pin=J2-6
+Added Pin To Net: NetName=EN_C6 Pin=J5-1
+Added Pin To Net: NetName=TX0 Pin=J5-2
+Added Pin To Net: NetName=RX0 Pin=J5-3
+Added Pin To Net: NetName=VDD Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=IO9 Pin=J5-6
+Added Pin To Net: NetName=IO8 Pin=J6-1
+Added Pin To Net: NetName=IO9 Pin=J6-2
+Added Pin To Net: NetName=IO15 Pin=J6-3
+Added Pin To Net: NetName=VDD Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=IO18 Pin=J6-6
+Add Pin To Net: Unknown Pin: Pin J7-SH5
+Add Pin To Net: Unknown Pin: Pin U4-39_10
+Add Pin To Net: Unknown Pin: Pin U4-39_11
+Add Pin To Net: Unknown Pin: Pin U4-39_12
+Add Pin To Net: Unknown Pin: Pin U4-39_13
+Add Pin To Net: Unknown Pin: Pin U4-39_14
+Add Pin To Net: Unknown Pin: Pin U4-39_15
+Add Pin To Net: Unknown Pin: Pin U4-39_16
+Add Pin To Net: Unknown Pin: Pin U4-39_17
+Add Pin To Net: Unknown Pin: Pin U4-39_18
+Add Pin To Net: Unknown Pin: Pin U4-39_19
+Add Pin To Net: Unknown Pin: Pin U4-39_20
+Add Pin To Net: Unknown Pin: Pin U4-39_21
+Added Member To Class: ClassName=Comunicación Ethernet Member=Component J2 ETH_PROGRAM_CONN
+Added Member To Class: ClassName=Procesador Principal Member=Component J5 ESP32_C6_PROGRAMM
+Added Member To Class: ClassName=Procesador Principal Member=Component J6 ESP32_C6_EXP

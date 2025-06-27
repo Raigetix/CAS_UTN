@@ -1,0 +1,172 @@
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Member From Class: ClassName=Comunicación Ethernet Member=D1
+Removed Member From Class: ClassName=Comunicación Ethernet Member=J1
+Change Footprint: Cannot match pads with new footprint in component :J7 Footprint:615032137921
+Change Component Comment : Designator=R27 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R28 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R33 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R34 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R35 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R36 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R41 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R42 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R43 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R48 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=R53 Old Comment=1K New Comment=1K 10%
+Change Component Comment : Designator=C8 Old Comment=1nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=R2 Old Comment=4K7 New Comment=4K7 10%
+Change Component Comment : Designator=R3 Old Comment=4K7 New Comment=4K7 10%
+Change Component Comment : Designator=R21 Old Comment=5K1 New Comment=5K1 10%
+Change Component Comment : Designator=R22 Old Comment=5K1 New Comment=5K1 10%
+Change Component Comment : Designator=R50 Old Comment=5K1 New Comment=5K1 10%
+Change Component Comment : Designator=R51 Old Comment=5K1 New Comment=5K1 10%
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R12 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R13 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R14 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R15 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R16 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R17 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R18 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R19 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R23 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R24 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R25 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R26 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R31 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R32 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R39 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R40 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R44 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R45 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R47 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R49 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=R52 Old Comment=10K New Comment=10K 10%
+Change Component Comment : Designator=C7 Old Comment=22uF New Comment=16V 22uF X5R
+Change Component Comment : Designator=C9 Old Comment=22uF New Comment=16V 22uF X5R
+Change Component Comment : Designator=R46 Old Comment=33.2K New Comment=33.2K 1%
+Change Component Comment : Designator=C15 Old Comment=47uF New Comment=47uF 16V
+Change Component Comment : Designator=C16 Old Comment=47uF New Comment=47uF 16V
+Change Component Comment : Designator=C18 Old Comment=47uF New Comment=47uF 16V
+Change Component Comment : Designator=R8 Old Comment=49.9 New Comment=49.9 1%
+Change Component Comment : Designator=R9 Old Comment=49.9 New Comment=49.9 1%
+Change Component Comment : Designator=R10 Old Comment=49.9 New Comment=49.9 1%
+Change Component Comment : Designator=R11 Old Comment=49.9 New Comment=49.9 1%
+Change Component Comment : Designator=R6 Old Comment=75 New Comment=75 1%
+Change Component Comment : Designator=R7 Old Comment=75 New Comment=75 1%
+Change Component Comment : Designator=C5 Old Comment=100nF New Comment=16V 1nF X7R
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C6 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C10 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C11 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C12 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C13 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C17 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C19 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C20 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=C22 Old Comment=100nF New Comment=16V 100nF X7R
+Change Component Comment : Designator=R29 Old Comment=220 New Comment=220 10%
+Change Component Comment : Designator=R30 Old Comment=220 New Comment=220 10%
+Change Component Comment : Designator=R37 Old Comment=220 New Comment=220 10%
+Change Component Comment : Designator=R38 Old Comment=220 New Comment=220 10%
+Change Component Comment : Designator=R4 Old Comment=470 New Comment=470 10%
+Change Component Comment : Designator=R5 Old Comment=470 New Comment=470 10%
+Change Component Comment : Designator=C4 Old Comment=1000pF 1KV New Comment=1kV 1nF X7R ±10%
+Change Component Comment : Designator=FB1 Old Comment=Choke New Comment=Choke 450mO ±25%
+Change Component Comment : Designator=FB2 Old Comment=Choke New Comment=Choke 450mO ±25%
+Change Component Comment : Designator=FB3 Old Comment=Choke New Comment=Choke 450mO ±25%
+Change Component Comment : Designator=FB4 Old Comment=Choke New Comment=Choke 450mO ±25%
+Change Component Comment : Designator=FB5 Old Comment=Choke New Comment=Choke 450mO ±25%
+Change Component Comment : Designator=FB6 Old Comment=Choke New Comment=Choke 450mO ±25%
+Change Component Comment : Designator=FB7 Old Comment=Choke New Comment=Choke 450mO ±25%
+Change Component Comment : Designator=J9 Old Comment=CONN_ALARM New Comment=P=5.08mm Pluggable System Terminal Block
+Change Component Comment : Designator=J6 Old Comment=ESP32_C6_EXP New Comment=Terminal 2x3 Pin - 2.54 Pitch
+Change Component Comment : Designator=J5 Old Comment=ESP32_C6_PROGRAMM New Comment=Terminal 2x3 Pin - 2.54 Pitch
+Change Component Comment : Designator=J2 Old Comment=ETH_PROGRAM_CONN New Comment=Terminal 2x3 Pin - 2.54 Pitch
+Change Component Comment : Designator=U2 Old Comment=LAN8720A-CP New Comment=LAN8720AI-CP
+Change Component Comment : Designator=RV1 Old Comment=VAR New Comment=Varistor
+Change Component Comment : Designator=BT1 Old Comment=VBAT = 2.3V to 5.5V New Comment=CR2032
+Change Component Comment : Designator=L1 Old Comment=WPN4020H4R7MT New Comment=2.85A 4.7uH ±20%
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "KEYSTONE_1063TR_1063TR"; UniqueID = "\HYFZRHCI\UDVKUBBW" ("\HYFZRHCI\UDVKUBBW")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BAT-HLD-011-THM/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C964764"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "BS-06-B4BK006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BAT-HLD-011-THM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BAT-HLD-011-THM/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP0402"; UniqueID = "\OELNDZEI\SNNLNQUN" ("\OELNDZEI\SNNLNQUN")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C189467"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "CC0402KRX7R7BB102"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAP_P1210"; UniqueID = "\QWYDLKOX\OPNGJEPT" ("\QWYDLKOX\OPNGJEPT")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C136751"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "CA45-B-16V-47uF-K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP_P1210"; UniqueID = "\QWYDLKOX\ZBBWHVOE" ("\QWYDLKOX\ZBBWHVOE")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C136751"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "CA45-B-16V-47uF-K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP_P1210"; UniqueID = "\QWYDLKOX\QGKCXVUO" ("\QWYDLKOX\QGKCXVUO")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C136751"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "CA45-B-16V-47uF-K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "GCT_USB4105GFA120"; UniqueID = "\OBNJPBYN\CVEWCXDD" ("\OBNJPBYN\CVEWCXDD")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB4105GFA120/Global+Connector+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C3025063"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "USB4105-GF-A-060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4105GFA120/Global+Connector+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "QFN50P400X400X100-25N"; UniqueID = "\OELNDZEI\UQIOYTSR" ("\OELNDZEI\UQIOYTSR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LAN8720A-CP/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C633282"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "LAN8720AI-CP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LAN8720AI-CP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "VFQFN-24 Microchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LAN8720A-CP/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOT65P210X110-6N"; UniqueID = "\OELNDZEI\NLCPKFCN" ("\OELNDZEI\NLCPKFCN")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C21713972"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "NUP4202W1T2G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SOT65P210X110-6N"; UniqueID = "\OBNJPBYN\FEIUPCQI" ("\OBNJPBYN\FEIUPCQI")
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C21713972"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "NUP4202W1T2G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U13" ("U13"); Footprint = "21-0041B_8"; UniqueID = "\HYFZRHCI\SARPDXNQ" ("\HYFZRHCI\SARPDXNQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS3231MZ/V+/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB P/N"; Value = "C107410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF P/N"; Value = "DS3231MZ+TRL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "DS3231MZ/V+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-8 Maxim"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS3231MZ/V+/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN?(PJ002B)
+Added Component: Designator=D?(D_SMA)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C2480"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "SS14"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-3
+Added Pin To Net: NetName=VCC Pin=D?-2
+Added Pin To Net: NetName=NetFB5_2 Pin=J7-SH3
+Add Pin To Net: Unknown Pin: Pin J7-SH5
+Add Pin To Net: Unknown Pin: Pin U4-39_10
+Add Pin To Net: Unknown Pin: Pin U4-39_11
+Add Pin To Net: Unknown Pin: Pin U4-39_12
+Add Pin To Net: Unknown Pin: Pin U4-39_13
+Add Pin To Net: Unknown Pin: Pin U4-39_14
+Add Pin To Net: Unknown Pin: Pin U4-39_15
+Add Pin To Net: Unknown Pin: Pin U4-39_16
+Add Pin To Net: Unknown Pin: Pin U4-39_17
+Add Pin To Net: Unknown Pin: Pin U4-39_18
+Add Pin To Net: Unknown Pin: Pin U4-39_19
+Add Pin To Net: Unknown Pin: Pin U4-39_20
+Add Pin To Net: Unknown Pin: Pin U4-39_21
+Added Pin To Net: NetName=NetCN?_1 Pin=CN?-1
+Added Pin To Net: NetName=NetCN?_1 Pin=D?-1
+Added Net: Name=NetCN?_1
+Added Member To Class: ClassName=Fuente de Alimentación Member=Component CN? CN_PowerJack
+Added Member To Class: ClassName=Fuente de Alimentación Member=Component D? SS14
+Added Member To Class: ClassName=Comunicación Ethernet Member=Component J3 RJ45

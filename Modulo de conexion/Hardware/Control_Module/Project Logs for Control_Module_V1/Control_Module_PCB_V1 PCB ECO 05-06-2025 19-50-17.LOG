@@ -1,0 +1,93 @@
+Added Component: Designator=J7(615032137921)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C3000183"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "HC-RJ45-5JA-4-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1888251-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J3-Shell
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J5-4
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J5-6
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Added Pin To Net: NetName=B Pin=J7-A1
+Added Pin To Net: NetName=A Pin=J7-A2
+Added Pin To Net: NetName=VJ1 Pin=J7-A3
+Added Pin To Net: NetName=VCC Pin=J7-A4
+Added Pin To Net: NetName=VCC Pin=J7-A5
+Added Pin To Net: NetName=GJ1 Pin=J7-A6
+Added Pin To Net: NetName=GND Pin=J7-A7
+Added Pin To Net: NetName=GND Pin=J7-A8
+Added Pin To Net: NetName=NetJ7_A9 Pin=J7-A9
+Added Pin To Net: NetName=VJ1 Pin=J7-A10
+Added Pin To Net: NetName=NetJ7_A11 Pin=J7-A11
+Added Pin To Net: NetName=LJ Pin=J7-A12
+Added Pin To Net: NetName=B Pin=J7-B1
+Added Pin To Net: NetName=A Pin=J7-B2
+Added Pin To Net: NetName=VJ2 Pin=J7-B3
+Added Pin To Net: NetName=VCC Pin=J7-B4
+Added Pin To Net: NetName=VCC Pin=J7-B5
+Added Pin To Net: NetName=GJ2 Pin=J7-B6
+Added Pin To Net: NetName=GND Pin=J7-B7
+Added Pin To Net: NetName=GND Pin=J7-B8
+Added Pin To Net: NetName=NetJ7_B9 Pin=J7-B9
+Added Pin To Net: NetName=VJ2 Pin=J7-B10
+Added Pin To Net: NetName=NetJ7_B11 Pin=J7-B11
+Added Pin To Net: NetName=LJ Pin=J7-B12
+Added Pin To Net: NetName=B Pin=J7-C1
+Added Pin To Net: NetName=A Pin=J7-C2
+Added Pin To Net: NetName=VJ3 Pin=J7-C3
+Added Pin To Net: NetName=VCC Pin=J7-C4
+Added Pin To Net: NetName=VCC Pin=J7-C5
+Added Pin To Net: NetName=GJ3 Pin=J7-C6
+Added Pin To Net: NetName=GND Pin=J7-C7
+Added Pin To Net: NetName=GND Pin=J7-C8
+Added Pin To Net: NetName=NetJ7_C9 Pin=J7-C9
+Added Pin To Net: NetName=VJ3 Pin=J7-C10
+Added Pin To Net: NetName=NetJ7_C11 Pin=J7-C11
+Added Pin To Net: NetName=LJ Pin=J7-C12
+Added Pin To Net: NetName=B Pin=J7-D1
+Added Pin To Net: NetName=A Pin=J7-D2
+Added Pin To Net: NetName=VJ4 Pin=J7-D3
+Added Pin To Net: NetName=VCC Pin=J7-D4
+Added Pin To Net: NetName=VCC Pin=J7-D5
+Added Pin To Net: NetName=GJ4 Pin=J7-D6
+Added Pin To Net: NetName=GND Pin=J7-D7
+Added Pin To Net: NetName=GND Pin=J7-D8
+Added Pin To Net: NetName=NetJ7_D9 Pin=J7-D9
+Added Pin To Net: NetName=VJ4 Pin=J7-D10
+Added Pin To Net: NetName=NetJ7_D11 Pin=J7-D11
+Added Pin To Net: NetName=LJ Pin=J7-D12
+Added Pin To Net: NetName=NetFB5_2 Pin=J7-SH1
+Added Pin To Net: NetName=NetFB5_2 Pin=J7-SH2
+Added Pin To Net: NetName=NetFB5_2 Pin=J7-SH3
+Added Pin To Net: NetName=NetFB5_2 Pin=J7-SH4
+Add Pin To Net: Unknown Pin: Pin J7-SH5
+Add Pin To Net: Unknown Pin: Pin U4-39_10
+Add Pin To Net: Unknown Pin: Pin U4-39_11
+Add Pin To Net: Unknown Pin: Pin U4-39_12
+Add Pin To Net: Unknown Pin: Pin U4-39_13
+Add Pin To Net: Unknown Pin: Pin U4-39_14
+Add Pin To Net: Unknown Pin: Pin U4-39_15
+Add Pin To Net: Unknown Pin: Pin U4-39_16
+Add Pin To Net: Unknown Pin: Pin U4-39_17
+Add Pin To Net: Unknown Pin: Pin U4-39_18
+Add Pin To Net: Unknown Pin: Pin U4-39_19
+Add Pin To Net: Unknown Pin: Pin U4-39_20
+Add Pin To Net: Unknown Pin: Pin U4-39_21
+Added Member To Class: ClassName=Comunicación RS485 Member=Component J7 RJ45-4

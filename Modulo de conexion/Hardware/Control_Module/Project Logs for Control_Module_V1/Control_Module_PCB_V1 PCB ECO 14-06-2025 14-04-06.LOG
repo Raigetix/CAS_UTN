@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAP_P1210 New Footprint=CAP_1210
+Change Component Footprint: Designator=C7 Old Footprint=CAP_P1210 New Footprint=CAP_1210
+Change Component Footprint: Designator=C9 Old Footprint=CAP_P1210 New Footprint=CAP_1210
+Change Component Description : Designator=U1 Old Description=LAN Transformer, 10/100 Base-Tx, OP -40C to +85C, CUT TAPE New Description=LAN Transformer, 10/100 Base-Tx, OP -40C to +85C, CUT TAPE | Bourns PT61018PEL
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J5-4
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J7-SH5
+Add Pin To Net: Unknown Pin: Pin U4-39_10
+Add Pin To Net: Unknown Pin: Pin U4-39_11
+Add Pin To Net: Unknown Pin: Pin U4-39_12
+Add Pin To Net: Unknown Pin: Pin U4-39_13
+Add Pin To Net: Unknown Pin: Pin U4-39_14
+Add Pin To Net: Unknown Pin: Pin U4-39_15
+Add Pin To Net: Unknown Pin: Pin U4-39_16
+Add Pin To Net: Unknown Pin: Pin U4-39_17
+Add Pin To Net: Unknown Pin: Pin U4-39_18
+Add Pin To Net: Unknown Pin: Pin U4-39_19
+Add Pin To Net: Unknown Pin: Pin U4-39_20
+Add Pin To Net: Unknown Pin: Pin U4-39_21

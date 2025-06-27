@@ -1,0 +1,30 @@
+Protel Design System Design Rule Check
+PCB File : F:\Tincho\Facultad\6 - Proyecto Final\repo\Modulo de conexion\Hardware\Control_Module\Control_Module_V1\Control_Module_PCB_V1.PcbDoc
+Date     : 17/06/2025
+Time     : 17:13:56
+
+Processing Rule : Clearance Constraint (Gap=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.937mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=5.906mil) (MaxHoleWidth=248.031mil) (PreferredHoleWidth=11.811mil) (MinWidth=9.842mil) (MaxWidth=50mil) (PreferedWidth=19.685mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

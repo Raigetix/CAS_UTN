@@ -1,0 +1,1026 @@
+Added Component: Designator=BT1(KEYSTONE_1063TR_1063TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BAT-HLD-011-THM/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C238070"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "1061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BAT-HLD-011-THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BAT-HLD-011-THM/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_P1210)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C106100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "C1210X102K102T"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_P1210)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C19659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL32A226KOJNNNE"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C14442"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B102KB5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_P1210)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C19659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL32A226KOJNNNE"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C70464"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05C220JB5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_P1210)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C5348293"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "TCNT476M016R0150"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_P1210)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C5348293"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "TCNT476M016R0150"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP_P1210)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C5348293"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "TCNT476M016R0150"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD_123)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C82544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD_123)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C82544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD_123)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C82544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD_123)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C82544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(CHOKE0603)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(CHOKE0603)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB3(CHOKE0603)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB4(CHOKE0603)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB5(CHOKE0603)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=FB6(CHOKE0603)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/742863160?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.22Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @1GHz"; Value = "800Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance @100MHz"; Value = "600Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max"; Value = "950Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance Max Test Condition"; Value = "600MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742863160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-CBF HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Current"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TerminalBlock_1x2_P5mm)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C3697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N 2"; Value = "C8414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "WJ2EDGRC-5.08-2P"; VariantName = "[No Variations]"
+Added Component: Designator=J2(SAMTEC_MTSW-103-X-X-D-X)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C65114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "2.54-2*3PPin"; VariantName = "[No Variations]"
+Added Component: Designator=J3(CUI_CRJ061-L1-TH)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CRJ061-L1-TH/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C3179438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRJ061-L1-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRJ061-L1-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRJ061-L1-TH/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(TE_2340901-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2340901-1/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C169130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "918-418K2024S40003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2340901-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2340901-1/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(SAMTEC_MTSW-103-X-X-D-X)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C65114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "2.54-2*3PPin"; VariantName = "[No Variations]"
+Added Component: Designator=J6(SAMTEC_MTSW-103-X-X-D-X)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C65114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "2.54-2*3PPin"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TE_1888251-4
+Added Component: Designator=J8(CUI_MSD-11-A)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MSD-11-A/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C693845"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "SD-01A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MSD-11-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MSD-11-A/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(TerminalBlock_1x2_P5mm)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C3697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N 2"; Value = "C8414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "WJ2EDGRC-5.08-2P"; VariantName = "[No Variations]"
+Added Component: Designator=L1(ind1515)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C98363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "WPN4020H4R7MT"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT_23)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C67273"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "IRLML0040TRPBF"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402FF4701G"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100444"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402FF4701G"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100443"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402FF4700G"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100443"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402FF4700G"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100685"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402JF0750G"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100685"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402JF0750G"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C325388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "RMC040249.91%N"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C325388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "RMC040249.91%N"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C325388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "RMC040249.91%N"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C325388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "RMC040249.91%N"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C25852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "0402WGF1212TCE"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402JF0512G"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402JF0512G"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100308"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402FF2200G"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100308"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402FF2200G"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100308"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402FF2200G"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100308"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402FF2200G"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C130276"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "RC0402FR-0733K2L"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402JF0512G"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C100665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CR0402JF0512G"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES0402)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C71623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "CRCW04021K00FKED"; VariantName = "[No Variations]"
+Added Component: Designator=RV1(RES0805)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C432914"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "AVR-M2012C220KT6AB"; VariantName = "[No Variations]"
+Added Component: Designator=U1(XFMR_PT61018PEL)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PT61018PEL/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C840586"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "PT61018PEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PT61018PEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-16 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PT61018PEL/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(QFN50P400X400X100-25N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LAN8720A-CP/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C633280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "LAN8720A-CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LAN8720A-CP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-24 Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LAN8720A-CP/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT65P210X110-6N)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C252434"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "NUP4202W1"; VariantName = "[No Variations]"
+Added Component: Designator=U4(XCVR_ESP32-WROOM-32U)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-WROOM-32D/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C328062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = " ESP32-WROOM-32U-N4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-WROOM-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non Standard Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-WROOM-32D/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOT65P210X110-6N)
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C252434"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "NUP4202W1"; VariantName = "[No Variations]"
+Added Component: Designator=U6(XCVR_ESP32-C6-WROOM-1-N8)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-C6-WROOM-1U-N4/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C5366877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "ESP32-C6-WROOM-1-N8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-C6-WROOM-1U-N4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-37 Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-C6-WROOM-1U-N4/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ISL3172EIBZ/Renesas/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C5772578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "ISL3172EIBZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Renesas Electronics America Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ISL3172EIBZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Renesas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ISL3172EIBZ/Renesas/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOIC127P700X230-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TCMT1100/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C118298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "TCMT1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCMT1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-4 Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TCMT1100/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOIC127P700X230-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TCMT1100/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C118298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "TCMT1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCMT1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-4 Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TCMT1100/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOIC127P700X230-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TCMT1100/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C118298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "TCMT1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCMT1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-4 Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TCMT1100/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOIC127P700X230-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TCMT1100/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C118298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "TCMT1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCMT1100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-4 Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TCMT1100/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOT95P280X110-6N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TPS563200DDCR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C97253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "TPS563200DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS563200DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-THN-6 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS563200DDCR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U13(21-0041B_8)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS3231MZ/V+/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB P/N"; Value = "C3304431"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUF P/N"; Value = "DS3231MZ/V+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS3231MZ/V+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS3231MZ/V+/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A Pin=U7-6
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=U7-7
+Added Net: Name=B
+Added Pin To Net: NetName=CD Pin=J8-CD
+Added Pin To Net: NetName=CD Pin=R49-2
+Added Pin To Net: NetName=CD Pin=U6-17
+Added Net: Name=CD
+Added Pin To Net: NetName=CLKIN Pin=U2-5
+Added Pin To Net: NetName=CLKIN Pin=U4-28
+Added Net: Name=CLKIN
+Added Pin To Net: NetName=CS_SD Pin=J8-P2
+Added Pin To Net: NetName=CS_SD Pin=R48-2
+Added Pin To Net: NetName=CS_SD Pin=U6-27
+Added Net: Name=CS_SD
+Added Pin To Net: NetName=D+ Pin=J4-A6
+Added Pin To Net: NetName=D+ Pin=J4-B6
+Added Pin To Net: NetName=D+ Pin=U5-6
+Added Pin To Net: NetName=D+ Pin=U6-14
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J4-A7
+Added Pin To Net: NetName=D- Pin=J4-B7
+Added Pin To Net: NetName=D- Pin=U5-4
+Added Pin To Net: NetName=D- Pin=U6-13
+Added Net: Name=D-
+Added Pin To Net: NetName=EMAC_CRS Pin=R13-2
+Added Pin To Net: NetName=EMAC_CRS Pin=U2-11
+Added Pin To Net: NetName=EMAC_CRS Pin=U4-12
+Added Net: Name=EMAC_CRS
+Added Pin To Net: NetName=EMAC_MDC Pin=U2-13
+Added Pin To Net: NetName=EMAC_MDC Pin=U4-37
+Added Net: Name=EMAC_MDC
+Added Pin To Net: NetName=EMAC_MDIO Pin=R12-2
+Added Pin To Net: NetName=EMAC_MDIO Pin=U2-12
+Added Pin To Net: NetName=EMAC_MDIO Pin=U4-30
+Added Net: Name=EMAC_MDIO
+Added Pin To Net: NetName=EMAC_PWR Pin=R19-1
+Added Pin To Net: NetName=EMAC_PWR Pin=U2-15
+Added Pin To Net: NetName=EMAC_PWR Pin=U4-26
+Added Net: Name=EMAC_PWR
+Added Pin To Net: NetName=EMAC_RXD0 Pin=R15-2
+Added Pin To Net: NetName=EMAC_RXD0 Pin=U2-8
+Added Pin To Net: NetName=EMAC_RXD0 Pin=U4-10
+Added Net: Name=EMAC_RXD0
+Added Pin To Net: NetName=EMAC_RXD1 Pin=R14-2
+Added Pin To Net: NetName=EMAC_RXD1 Pin=U2-7
+Added Pin To Net: NetName=EMAC_RXD1 Pin=U4-11
+Added Net: Name=EMAC_RXD1
+Added Pin To Net: NetName=EMAC_TX_EN Pin=U2-16
+Added Pin To Net: NetName=EMAC_TX_EN Pin=U4-33
+Added Net: Name=EMAC_TX_EN
+Added Pin To Net: NetName=EMAC_TXD0 Pin=U2-17
+Added Pin To Net: NetName=EMAC_TXD0 Pin=U4-31
+Added Net: Name=EMAC_TXD0
+Added Pin To Net: NetName=EMAC_TXD1 Pin=U2-18
+Added Pin To Net: NetName=EMAC_TXD1 Pin=U4-36
+Added Net: Name=EMAC_TXD1
+Added Pin To Net: NetName=EN_C6 Pin=C11-1
+Added Pin To Net: NetName=EN_C6 Pin=R23-2
+Added Pin To Net: NetName=EN_C6 Pin=U6-3
+Added Net: Name=EN_C6
+Added Pin To Net: NetName=EN Pin=C2-1
+Added Pin To Net: NetName=EN Pin=R1-2
+Added Pin To Net: NetName=EN Pin=U4-3
+Added Net: Name=EN
+Added Pin To Net: NetName=FB Pin=C14-1
+Added Pin To Net: NetName=FB Pin=R46-1
+Added Pin To Net: NetName=FB Pin=R47-1
+Added Pin To Net: NetName=FB Pin=U12-4
+Added Net: Name=FB
+Added Pin To Net: NetName=GJ1 Pin=R35-1
+Added Pin To Net: NetName=GJ1 Pin=U10-2
+Added Net: Name=GJ1
+Added Pin To Net: NetName=GJ2 Pin=R36-1
+Added Pin To Net: NetName=GJ2 Pin=U11-2
+Added Net: Name=GJ2
+Added Pin To Net: NetName=GJ3 Pin=R27-1
+Added Pin To Net: NetName=GJ3 Pin=U8-2
+Added Net: Name=GJ3
+Added Pin To Net: NetName=GJ4 Pin=R28-1
+Added Pin To Net: NetName=GJ4 Pin=U9-2
+Added Net: Name=GJ4
+Added Pin To Net: NetName=GND Pin=BT1-N
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=FB2-2
+Added Pin To Net: NetName=GND Pin=FB4-1
+Added Pin To Net: NetName=GND Pin=FB5-1
+Added Pin To Net: NetName=GND Pin=FB6-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J4-A1/B12
+Added Pin To Net: NetName=GND Pin=J4-B1/A12
+Added Pin To Net: NetName=GND Pin=J8-P6
+Added Pin To Net: NetName=GND Pin=J8-WP
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=GND Pin=R47-2
+Added Pin To Net: NetName=GND Pin=RV1-1
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U4-38
+Added Pin To Net: NetName=GND Pin=U4-39_1
+Added Pin To Net: NetName=GND Pin=U4-39_2
+Added Pin To Net: NetName=GND Pin=U4-39_3
+Added Pin To Net: NetName=GND Pin=U4-39_4
+Added Pin To Net: NetName=GND Pin=U4-39_5
+Added Pin To Net: NetName=GND Pin=U4-39_6
+Added Pin To Net: NetName=GND Pin=U4-39_7
+Added Pin To Net: NetName=GND Pin=U4-39_8
+Added Pin To Net: NetName=GND Pin=U4-39_9
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-28
+Added Pin To Net: NetName=GND Pin=U6-29_1
+Added Pin To Net: NetName=GND Pin=U6-29_2
+Added Pin To Net: NetName=GND Pin=U6-29_3
+Added Pin To Net: NetName=GND Pin=U6-29_4
+Added Pin To Net: NetName=GND Pin=U6-29_5
+Added Pin To Net: NetName=GND Pin=U6-29_6
+Added Pin To Net: NetName=GND Pin=U6-29_7
+Added Pin To Net: NetName=GND Pin=U6-29_8
+Added Pin To Net: NetName=GND Pin=U6-29_9
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=GND Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U13-5
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1 Pin=R16-2
+Added Pin To Net: NetName=IN1 Pin=U4-7
+Added Net: Name=IN1
+Added Pin To Net: NetName=INH Pin=R17-2
+Added Pin To Net: NetName=INH Pin=U4-6
+Added Net: Name=INH
+Added Pin To Net: NetName=INJ1 Pin=R39-2
+Added Pin To Net: NetName=INJ1 Pin=U6-18
+Added Pin To Net: NetName=INJ1 Pin=U10-4
+Added Net: Name=INJ1
+Added Pin To Net: NetName=INJ2 Pin=R40-2
+Added Pin To Net: NetName=INJ2 Pin=U6-19
+Added Pin To Net: NetName=INJ2 Pin=U11-4
+Added Net: Name=INJ2
+Added Pin To Net: NetName=INJ3 Pin=R31-2
+Added Pin To Net: NetName=INJ3 Pin=U6-20
+Added Pin To Net: NetName=INJ3 Pin=U8-4
+Added Net: Name=INJ3
+Added Pin To Net: NetName=INJ4 Pin=R32-2
+Added Pin To Net: NetName=INJ4 Pin=U6-21
+Added Pin To Net: NetName=INJ4 Pin=U9-4
+Added Net: Name=INJ4
+Added Pin To Net: NetName=IO0 Pin=R2-2
+Added Pin To Net: NetName=IO0 Pin=U4-25
+Added Net: Name=IO0
+Added Pin To Net: NetName=IO8 Pin=R24-2
+Added Pin To Net: NetName=IO8 Pin=U6-10
+Added Net: Name=IO8
+Added Pin To Net: NetName=IO9 Pin=R25-2
+Added Pin To Net: NetName=IO9 Pin=U6-15
+Added Net: Name=IO9
+Added Pin To Net: NetName=IO15 Pin=U6-23
+Added Net: Name=IO15
+Added Pin To Net: NetName=IO18 Pin=U6-16
+Added Net: Name=IO18
+Added Pin To Net: NetName=LED1 Pin=J3-10
+Added Pin To Net: NetName=LED1 Pin=U2-3
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=J3-11
+Added Pin To Net: NetName=LED2 Pin=U2-2
+Added Net: Name=LED2
+Added Pin To Net: NetName=LJ Pin=Q1-3
+Added Net: Name=LJ
+Added Pin To Net: NetName=MISO Pin=J8-P7
+Added Pin To Net: NetName=MISO Pin=U6-7
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J8-P3
+Added Pin To Net: NetName=MOSI Pin=U6-9
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetBT1_P Pin=BT1-P
+Added Pin To Net: NetName=NetBT1_P Pin=U13-6
+Added Net: Name=NetBT1_P
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R6-2
+Added Pin To Net: NetName=NetC4_1 Pin=R7-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C9-1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-6
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U12-6
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=J1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetFB1_1 Pin=FB1-1
+Added Pin To Net: NetName=NetFB1_1 Pin=J3-4
+Added Pin To Net: NetName=NetFB1_1 Pin=J3-5
+Added Pin To Net: NetName=NetFB1_1 Pin=RV1-2
+Added Net: Name=NetFB1_1
+Added Pin To Net: NetName=NetFB2_1 Pin=FB2-1
+Added Pin To Net: NetName=NetFB2_1 Pin=J3-8
+Added Net: Name=NetFB2_1
+Added Pin To Net: NetName=NetFB3_2 Pin=FB3-2
+Added Pin To Net: NetName=NetFB3_2 Pin=J4-A4/B9
+Added Pin To Net: NetName=NetFB3_2 Pin=J4-B4/AP
+Added Net: Name=NetFB3_2
+Added Pin To Net: NetName=NetFB4_2 Pin=FB4-2
+Added Pin To Net: NetName=NetFB4_2 Pin=J4-SH1
+Added Pin To Net: NetName=NetFB4_2 Pin=J4-SH2
+Added Pin To Net: NetName=NetFB4_2 Pin=J4-SH3
+Added Pin To Net: NetName=NetFB4_2 Pin=J4-SH4
+Added Net: Name=NetFB4_2
+Added Pin To Net: NetName=NetFB5_2 Pin=FB5-2
+Added Net: Name=NetFB5_2
+Added Pin To Net: NetName=NetFB6_1 Pin=FB6-1
+Added Pin To Net: NetName=NetFB6_1 Pin=J8-G1
+Added Pin To Net: NetName=NetFB6_1 Pin=J8-G2
+Added Net: Name=NetFB6_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U1-16
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U1-14
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=U1-11
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=U1-9
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_9 Pin=J3-9
+Added Pin To Net: NetName=NetJ3_9 Pin=R4-1
+Added Net: Name=NetJ3_9
+Added Pin To Net: NetName=NetJ3_12 Pin=J3-12
+Added Pin To Net: NetName=NetJ3_12 Pin=R5-1
+Added Net: Name=NetJ3_12
+Added Pin To Net: NetName=NetJ4_A5 Pin=J4-A5
+Added Pin To Net: NetName=NetJ4_A5 Pin=R21-1
+Added Net: Name=NetJ4_A5
+Added Pin To Net: NetName=NetJ4_B5 Pin=J4-B5
+Added Pin To Net: NetName=NetJ4_B5 Pin=R22-1
+Added Net: Name=NetJ4_B5
+Added Pin To Net: NetName=NetJ7_A9 Pin=R35-2
+Added Net: Name=NetJ7_A9
+Added Pin To Net: NetName=NetJ7_A11 Pin=R37-2
+Added Net: Name=NetJ7_A11
+Added Pin To Net: NetName=NetJ7_B9 Pin=R36-2
+Added Net: Name=NetJ7_B9
+Added Pin To Net: NetName=NetJ7_B11 Pin=R38-2
+Added Net: Name=NetJ7_B11
+Added Pin To Net: NetName=NetJ7_C9 Pin=R27-2
+Added Net: Name=NetJ7_C9
+Added Pin To Net: NetName=NetJ7_C11 Pin=R29-2
+Added Net: Name=NetJ7_C11
+Added Pin To Net: NetName=NetJ7_D9 Pin=R28-2
+Added Net: Name=NetJ7_D9
+Added Pin To Net: NetName=NetJ7_D11 Pin=R30-2
+Added Net: Name=NetJ7_D11
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=R52-2
+Added Pin To Net: NetName=NetJ9_2 Pin=R53-2
+Added Net: Name=NetJ9_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R41-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R44-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U4-29
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-15
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-10
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U2-10
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U2-24
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=U8-1
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=U9-1
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=U10-1
+Added Net: Name=NetR42_2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=U11-1
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR45_2 Pin=U12-5
+Added Net: Name=NetR45_2
+Added Pin To Net: NetName=RX0 Pin=U6-24
+Added Pin To Net: NetName=RX0 Pin=U7-1
+Added Net: Name=RX0
+Added Pin To Net: NetName=RX1 Pin=U4-27
+Added Pin To Net: NetName=RX1 Pin=U6-4
+Added Net: Name=RX1
+Added Pin To Net: NetName=RXN Pin=R8-2
+Added Pin To Net: NetName=RXN Pin=U1-8
+Added Pin To Net: NetName=RXN Pin=U2-22
+Added Pin To Net: NetName=RXN Pin=U3-3
+Added Net: Name=RXN
+Added Pin To Net: NetName=RXP Pin=R9-2
+Added Pin To Net: NetName=RXP Pin=U1-6
+Added Pin To Net: NetName=RXP Pin=U2-23
+Added Pin To Net: NetName=RXP Pin=U3-1
+Added Net: Name=RXP
+Added Pin To Net: NetName=SCK Pin=J8-P5
+Added Pin To Net: NetName=SCK Pin=U6-6
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=R51-2
+Added Pin To Net: NetName=SCL Pin=U6-11
+Added Pin To Net: NetName=SCL Pin=U13-8
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=R50-2
+Added Pin To Net: NetName=SDA Pin=U6-12
+Added Pin To Net: NetName=SDA Pin=U13-7
+Added Net: Name=SDA
+Added Pin To Net: NetName=SW Pin=C13-2
+Added Pin To Net: NetName=SW Pin=L1-1
+Added Pin To Net: NetName=SW Pin=U12-2
+Added Net: Name=SW
+Added Pin To Net: NetName=TX0 Pin=U6-25
+Added Pin To Net: NetName=TX0 Pin=U7-4
+Added Net: Name=TX0
+Added Pin To Net: NetName=TX1 Pin=U4-23
+Added Pin To Net: NetName=TX1 Pin=U6-5
+Added Net: Name=TX1
+Added Pin To Net: NetName=TXE Pin=R26-1
+Added Pin To Net: NetName=TXE Pin=R41-1
+Added Pin To Net: NetName=TXE Pin=U6-26
+Added Pin To Net: NetName=TXE Pin=U7-3
+Added Net: Name=TXE
+Added Pin To Net: NetName=TXN Pin=R10-2
+Added Pin To Net: NetName=TXN Pin=U1-3
+Added Pin To Net: NetName=TXN Pin=U2-20
+Added Pin To Net: NetName=TXN Pin=U3-6
+Added Net: Name=TXN
+Added Pin To Net: NetName=TXP Pin=R11-2
+Added Pin To Net: NetName=TXP Pin=U1-1
+Added Pin To Net: NetName=TXP Pin=U2-21
+Added Pin To Net: NetName=TXP Pin=U3-4
+Added Net: Name=TXP
+Added Pin To Net: NetName=TXRX Pin=U4-24
+Added Net: Name=TXRX
+Added Pin To Net: NetName=U0RX Pin=U4-34
+Added Net: Name=U0RX
+Added Pin To Net: NetName=U0TX Pin=U4-35
+Added Net: Name=U0TX
+Added Pin To Net: NetName=V_Alarm Pin=C22-1
+Added Pin To Net: NetName=V_Alarm Pin=D3-1
+Added Pin To Net: NetName=V_Alarm Pin=D4-2
+Added Pin To Net: NetName=V_Alarm Pin=R53-1
+Added Pin To Net: NetName=V_Alarm Pin=U6-8
+Added Net: Name=V_Alarm
+Added Pin To Net: NetName=VCC Pin=C18-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=FB1-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R31-1
+Added Pin To Net: NetName=VCC Pin=R32-1
+Added Pin To Net: NetName=VCC Pin=R39-1
+Added Pin To Net: NetName=VCC Pin=R40-1
+Added Pin To Net: NetName=VCC Pin=R45-1
+Added Pin To Net: NetName=VCC Pin=R52-1
+Added Pin To Net: NetName=VCC Pin=U12-3
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDDA Pin=C3-1
+Added Pin To Net: NetName=VDDA Pin=C5-1
+Added Pin To Net: NetName=VDDA Pin=C7-1
+Added Pin To Net: NetName=VDDA Pin=C8-1
+Added Pin To Net: NetName=VDDA Pin=R8-1
+Added Pin To Net: NetName=VDDA Pin=R9-1
+Added Pin To Net: NetName=VDDA Pin=R10-1
+Added Pin To Net: NetName=VDDA Pin=R11-1
+Added Pin To Net: NetName=VDDA Pin=U1-2
+Added Pin To Net: NetName=VDDA Pin=U1-7
+Added Pin To Net: NetName=VDDA Pin=U2-1
+Added Pin To Net: NetName=VDDA Pin=U2-19
+Added Pin To Net: NetName=VDDA Pin=U3-5
+Added Net: Name=VDDA
+Added Pin To Net: NetName=VDD Pin=C1-1
+Added Pin To Net: NetName=VDD Pin=C10-2
+Added Pin To Net: NetName=VDD Pin=C12-2
+Added Pin To Net: NetName=VDD Pin=C14-2
+Added Pin To Net: NetName=VDD Pin=C15-1
+Added Pin To Net: NetName=VDD Pin=C16-1
+Added Pin To Net: NetName=VDD Pin=C17-1
+Added Pin To Net: NetName=VDD Pin=C19-1
+Added Pin To Net: NetName=VDD Pin=C20-1
+Added Pin To Net: NetName=VDD Pin=D3-2
+Added Pin To Net: NetName=VDD Pin=J8-P4
+Added Pin To Net: NetName=VDD Pin=L1-2
+Added Pin To Net: NetName=VDD Pin=R1-1
+Added Pin To Net: NetName=VDD Pin=R2-1
+Added Pin To Net: NetName=VDD Pin=R3-1
+Added Pin To Net: NetName=VDD Pin=R12-1
+Added Pin To Net: NetName=VDD Pin=R13-1
+Added Pin To Net: NetName=VDD Pin=R14-1
+Added Pin To Net: NetName=VDD Pin=R15-1
+Added Pin To Net: NetName=VDD Pin=R16-1
+Added Pin To Net: NetName=VDD Pin=R17-1
+Added Pin To Net: NetName=VDD Pin=R23-1
+Added Pin To Net: NetName=VDD Pin=R24-1
+Added Pin To Net: NetName=VDD Pin=R25-1
+Added Pin To Net: NetName=VDD Pin=R29-1
+Added Pin To Net: NetName=VDD Pin=R30-1
+Added Pin To Net: NetName=VDD Pin=R37-1
+Added Pin To Net: NetName=VDD Pin=R38-1
+Added Pin To Net: NetName=VDD Pin=R46-2
+Added Pin To Net: NetName=VDD Pin=R48-1
+Added Pin To Net: NetName=VDD Pin=R49-1
+Added Pin To Net: NetName=VDD Pin=R50-1
+Added Pin To Net: NetName=VDD Pin=R51-1
+Added Pin To Net: NetName=VDD Pin=U2-9
+Added Pin To Net: NetName=VDD Pin=U4-2
+Added Pin To Net: NetName=VDD Pin=U6-2
+Added Pin To Net: NetName=VDD Pin=U7-8
+Added Pin To Net: NetName=VDD Pin=U13-2
+Added Net: Name=VDD
+Added Pin To Net: NetName=VJ1 Pin=R42-1
+Added Net: Name=VJ1
+Added Pin To Net: NetName=VJ2 Pin=R43-1
+Added Net: Name=VJ2
+Added Pin To Net: NetName=VJ3 Pin=R33-1
+Added Net: Name=VJ3
+Added Pin To Net: NetName=VJ4 Pin=R34-1
+Added Net: Name=VJ4
+Added Pin To Net: NetName=Vusb Pin=D2-1
+Added Pin To Net: NetName=Vusb Pin=FB3-1
+Added Pin To Net: NetName=Vusb Pin=U5-5
+Added Net: Name=Vusb
+Added Class: Name=Comunicación Ethernet
+Added Class: Name=Comunicación RS485
+Added Class: Name=Entradas y Salidas
+Added Class: Name=Fuente de Alimentación
+Added Class: Name=Periféricos
+Added Class: Name=Procesador Principal
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
